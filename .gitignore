@@ -1,0 +1,6 @@
+/frontend/node_modules
+/node_modules
+/frontend/src/components/.txt
+/frontend/src/components/Prueba.js
+/frontend/src/components/Prueba2.js
+.env
